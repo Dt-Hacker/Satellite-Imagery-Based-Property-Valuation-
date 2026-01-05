@@ -159,9 +159,9 @@ A Random Forest regressor was evaluated using tabular features combined with CNN
 
 ### Architecture
 
-Tabular Features ─┐
-├── XGBoost ──► Price Prediction
-CNN Embeddings ───┘
+Tabular Features ─┐<br>
+├── XGBoost ──► Price Prediction<br>
+CNN Embeddings ───┘<br>
 
 
 - CNN embeddings are concatenated with tabular features.
