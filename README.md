@@ -232,7 +232,10 @@ No additional setup is required.
 
 ### Requirements
 
+```bash
 pip install numpy pandas scikit-learn xgboost torch torchvision pillow tqdm matplotlib seaborn requests
+```
+
 
 
 ### Steps
